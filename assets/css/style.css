@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Gabriela', serif;
   background: #0c0b09;
   color: #fff;
 }
@@ -25,7 +25,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", serif;
+  font-family: 'Gabriela', serif;
 }
 
 /*--------------------------------------------------------------
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
 }
 #header .logo a {
   color: #fff;
@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
 }
 #hero h1 span {
   color: #cda45e;
@@ -601,7 +601,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
 }
 .section-title h2::after {
   content: "";
@@ -616,7 +616,7 @@ section {
   margin: 0;
   font-size: 36px;
   font-weight: 700;
-  font-family: "Playfair Display", serif;
+  font-family: 'Gabriela', serif;
   color: #cda45e;
 }
 
@@ -816,7 +816,7 @@ section {
   font-size: 36px;
   color: #444444;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
 }
 .menu .price sup {
   font-size: 20px;
@@ -855,7 +855,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 400;
-  font-family: "Nunito", sans-serif;
+  font-family: 'Gabriela', serif;
   font-weight: 600;
   transition: 0.3s;
   border: 1px solid #4154f1;
@@ -894,7 +894,7 @@ section {
   margin-bottom: 10px;
   transition: all ease-in-out 0.3s;
   border-radius: 50px;
-  font-family: "Playfair Display", serif;
+  font-family: 'Gabriela', serif;
 }
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
   color: #cda45e;
@@ -952,7 +952,7 @@ section {
   margin-left: 85px;
   font-style: italic;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
   color: rgba(255, 255, 255, 0.5);
 }
 
