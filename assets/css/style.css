@@ -1051,7 +1051,7 @@ section {
 }
 .events .event-item .price {
   font-size: 26px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Gabriela', serif;
   font-weight: 700;
   margin-bottom: 15px;
 }
@@ -1354,7 +1354,7 @@ section {
   font-size: 18px;
   font-weight: 500;
   margin-bottom: 5px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
 }
 .contact .info p {
   padding: 0 0 0 60px;
@@ -1487,13 +1487,13 @@ section {
   line-height: 1;
   font-weight: 300;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Gabriela', serif;
 }
 #footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Playfair Display", serif;
+  font-family: 'Gabriela', serif;
   color: #fff;
 }
 #footer .footer-top .social-links a {
